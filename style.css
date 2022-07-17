@@ -149,3 +149,137 @@ body {
 .fa-solid {
     font-size: 30px;
 }
+
+.masruf {
+    display: flex;
+}
+
+.hub {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.yt {
+
+    width: 100%;
+}
+
+.hi {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.fart {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px 20px;
+    color: aliceblue;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.chao {
+    text-align: center;
+    font-weight: 700;
+    padding-top: 80px;
+}
+
+.opine {
+    padding-top: 40px;
+}
+
+.fie {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.gr {
+    text-align: center;
+}
+
+.fox {
+    width: 500px;
+    height: 500px;
+    background: rgb(199, 174, 174);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+
+
+}
+
+.form-box {
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 15px rgb(199, 174, 174), -10px -10px 15px rgb(199, 174, 174);
+
+}
+
+.form-box input {
+    font-size: 18px;
+    border: none;
+    outline: none;
+    padding: 15px 10px;
+    color: #000;
+    background: #ddd;
+
+
+}
+
+.form-box button {
+    font-size: 18px;
+    border: none;
+    background: rgb(36, 36, 66);
+    padding: 15px 20px;
+    color: #fff;
+    border-radius: 5px;
+
+}
+
+.nine {
+    background-position: center;
+    justify-content: center;
+    align-content: center;
+    background-size: cover;
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 120px;
+
+
+
+
+}
+
+.vote {
+    background: #fcfcfc;
+}
+
+.ri {
+
+
+
+    background: #111;
+    height: auto;
+    width: 100vw;
+    padding-top: 40px;
+    color: #fff;
+    padding-bottom: 40px;
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+
+
+
+}
+
+.ki {
+
+    color: coral;
+}
